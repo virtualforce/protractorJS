@@ -123,10 +123,10 @@ You can create a task to run test case suite like
 
     function getFile(ext){
       if(ext == '--regression'){
-        return './e2e/test/regression/login/*.spec.js'
+        return 'FILE_PATH/*.spec.js'
       }
       else{
-        return './e2e/test/smoke_tests/*.spec.js'
+        return 'FILE_PATH/*.spec.js'
       }
     }
     
