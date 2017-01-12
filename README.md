@@ -1,5 +1,5 @@
 # ProtractorJS
-## ProtractorJS to Test Node Applications
+## ProtractorJS to Test Angular and Node Applications
 
 ### 1. Configuration with bower
 
